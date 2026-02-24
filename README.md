@@ -40,3 +40,17 @@ The following M3 components were used:
 
 ### 📸 Screenshot
 ![Running App Screenshot](ComposeLayoutMasteryScreenshot.png)
+
+
+# AI DISCLOSURE
+
+### Universal AI Statment 
+I utilized Gemini to ensure that I met each of the project requirements, as well as prompting it for assistance with commenting and ensuring my code followed standard Kotlin conventions. In several instances, AI-generated comments were omitted or manually rewritten to ensure accuracy and flow. Because the AI occasionally "hallucinated" requirements or skipped constraints, I manually verified every line of code against the rubric, using Gemini primarily as a second pair of eyes and a brainstorming partner.
+
+Additionally, I used it to draft my READMES, though I occassionally needed to omit unneccessary (and frankly, sometimes strange) details.
+
+---
+
+### Q1: Settings Screen
+* **Requirement Validation:** Gemini brought to my attention that I was missing the `weight` modifier requirement in my setting rows, which I implemented to improve the layout and meet the requirements specified.
+* **Brainstorming:** Gemini assisted in brainstorming which types of settings (Alerts, Permissions, Volume) would logically map to specific Material 3 elements like `Switch`, `Checkbox`, and `Slider`.
