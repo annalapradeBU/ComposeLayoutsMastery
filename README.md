@@ -41,6 +41,7 @@ The following M3 components were used:
 ### 📸 Screenshot
 ![Running App Screenshot](ComposeLayoutMasteryScreenshot.png)
 
+---
 
 # AI DISCLOSURE
 
